@@ -1,0 +1,85 @@
+/* main.css */
+body {
+    background: linear-gradient(#032F30, #0A7075);
+    font-family: Arial, sans-serif;
+    color: white;
+}
+
+header {
+    background-color: #6BA3BE;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+}
+
+header .social_links {
+    margin-top: 10px;
+}
+
+header .social_links a {
+    margin: 0 5px;
+    font-size: 25px;
+    color: white;
+}
+
+main.login-container {
+    margin-left: 40%;
+    margin-right: 40%;
+    text-align: center;
+    padding: 20px;
+}
+
+main.login-container form {
+    display: inline-block;
+    margin: 0 auto;
+    text-align: left;
+}
+
+main.login-container input[type="text"],
+main.login-container input[type="password"] {
+    width: 95%;
+    padding: 10px;
+    margin: 5px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+main.login-container button {
+    margin: 0 auto;
+    background: #6BA3BE;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 100%;
+}
+
+main.login-container button:hover {
+    background: #5a92a8;
+}
+
+main .guest-btn {
+    display: inline-block;
+    margin-top: 20px;
+    background: #6BA3BE;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+main .guest-btn:hover {
+    background: #5a92a8;
+}
+
+footer {
+    text-align: center;
+    font-size: 14px;
+    color: #7f8c8d;
+    padding: 20px;
+}

@@ -1,0 +1,122 @@
+/*Body Design*/
+body {
+    background: linear-gradient(#032F30, #0A7075); 
+    font-family: Arial, sans-serif; 
+    color: white;
+  }
+  main {
+    margin-left: 220px;
+  }
+  footer {
+    margin-left: 220px; 
+    text-align: center;
+    margin-top: 30px;
+    font-size: 14px;
+    color: #7f8c8d;
+  }
+  /* Sidenav */
+  #mySidenav a {
+      position: fixed;
+      left: -140px;
+      transition: 0.3s; 
+      padding: 15px; 
+      width: 170px; 
+      text-decoration: none;
+      font-size: 20px;
+      color: white;
+      border-radius: 0 5px 5px 0;
+  }
+  #mySidenav a i{
+      float: right;
+      font-size: 25px;
+      color: white; 
+  }
+  #mySidenav a:hover {
+      background-color: #6BA3BE;
+      left: 0; 
+  }
+  #home {
+      top: 260px;
+      background-color: #031716;
+  }
+  #about {
+      top: 320px;
+      background-color: #031716;
+  }
+  #skill {
+      top: 380px;
+      background-color: #031716;
+  }
+  #projects {
+      top: 440px;
+      background-color: #031716;
+  }
+  #contact {
+      top: 500px;
+      background-color: #031716;
+  }
+  /* Profile Img */
+  .profile {
+      margin-top: -10px;
+      margin-left: -10px;
+      background-color: #274d60;
+      border-right: 5px #274d60 solid;
+      position: fixed;
+      width: 210px ;
+      margin-right: 85%;
+      text-align: center;
+      height: 100%;
+      box-shadow: 3px 3px 3px 3px rgb(36, 36, 36);
+  }
+  .profile img{
+      margin-left: -80px;
+      position: fixed;
+      margin-top: 20px;
+      border-radius: 100%;
+      height: 150px;
+      width: auto;
+      box-shadow: 10px 10px 10px 10px rgb(36, 36, 36);
+  }
+  .profile h3{
+      position: fixed;
+      width: 200px ;
+      margin-top: 190px;
+  }
+  .social_links{
+      margin-left: 50px ;
+      margin-top: 45%;
+      position: fixed;
+      float: inline-end;
+  }
+  .social_links a {
+      margin-left: 5px;
+      margin-right: 5px;
+      text-decoration: none;
+      font-size: 25px;
+      color: white;
+  }
+  /* Date & Time */
+  .dat {
+      position: fixed;
+      width: 100%;
+  }
+  .dat span {
+      margin-left: 20px;
+      margin-right: 20px;
+      float: right;
+  }
+  
+  .exit {
+    z-index: 10;
+    margin-top: 0;
+    position: fixed;
+    width: 40px; 
+    height: 40px;
+    text-decoration: none;
+    font-size: 25px;
+    color: white;
+    border-radius: 100%;
+    background-color: #031716;
+  }
+
+  

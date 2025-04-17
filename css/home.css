@@ -1,0 +1,37 @@
+.head_title {
+    max-height: 500px;
+    max-width: 100%;
+}
+
+.head_title img {
+    margin-left: -10px;
+    height: 350px;
+    width: 101.3%;
+    -webkit-mask-image: linear-gradient(#000, rgba(0,0,0,0.2));
+    mask-image: linear-gradient(#000, rgba(0, 0, 0, 0));
+}
+
+a {
+    text-decoration: none;
+}
+.centered {
+    font-family: "Times New Roman", Times, serif;
+    text-align: center;
+    margin-left: 200px;
+    position: absolute;
+    top: 11%;
+    left: 43%;
+    transform: translate(-50%, -50%);
+  }
+
+main .content {
+    margin-top: -100px;
+    margin-left: 4%;
+    margin-right: 4%; 
+    font-size: 20px;
+    text-align: start;
+    text-indent: 15px;
+}
+
+
+

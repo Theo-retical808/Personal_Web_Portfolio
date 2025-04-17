@@ -1,0 +1,43 @@
+.project-template {
+    padding: 20px;
+    border: 5px #102029 solid;
+    background-color: #17726d;
+    margin: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.project-template h2 {
+    text-align: center;
+    font-size: 24px;
+    color: #ffffff;
+    margin-bottom: 20px;
+}
+
+.project {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.project-image {
+    max-width: 500px;
+    max-height: 500px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+    margin: 10px;
+}
+
+.project-details {
+    flex: 1;
+    max-width: 500px;
+    padding: 20px;
+    background-color: #274d60;
+    color: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+    margin: 10px;
+    font-size: 16px;
+    line-height: 1.5;
+}

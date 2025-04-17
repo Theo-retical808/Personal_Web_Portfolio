@@ -1,0 +1,10 @@
+Hello! I'm Denmarc Angeles, a dedicated freelance web developer and backend specialist currently based in Brgy. Tandoc, San Carlos City, Pangasinan, Philippines. I specialize in transforming ideas into interactive and functional digital experiences.
+I’m a self-taught and university-trained programmer with a passion for web technologies. My journey started with curiosity about how websites work and grew into a career where I create web-based databases, dynamic websites, and backend systems tailored to client needs.
+Web Development: Creating responsive, user-friendly websites that work seamlessly across all devices.
+Backend Development: Developing robust backend systems for secure and efficient data management.
+Database Management: Designing and maintaining SQL and MySQL databases for optimized performance.
+Freelance Programming: Delivering custom software solutions for businesses and individuals.
+I aim to craft solutions that not only solve problems but also deliver value to users and businesses. Whether it's a personal website, an e-commerce platform, or a complex backend system, I approach every project with a commitment to quality and innovation.
+I have experience in HTML, CSS, JavaScript, and backend technologies like PHP, C++, C#, and Java.
+I enjoy working on interactive websites and tackling challenges in coding.
+When I'm not coding, I love reading science fiction books and staying updated on the latest tech trends.
